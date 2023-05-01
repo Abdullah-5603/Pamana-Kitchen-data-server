@@ -1,0 +1,309 @@
+[
+    {
+        "id": 1,
+        "name": "Buddy Valastro",
+        "recipes": [
+            {
+                "id": "Buddy_Valastro_recipe-1",
+                "name": "Buddy's Classic Tiramisu",
+                "ingredients": [
+                    "1 1/2 cups brewed espresso, at room temperature",
+                    "1/4 cup amaretto liqueur",
+                    "1/4 cup sugar",
+                    "8 egg yolks",
+                    "1/3 cup sugar",
+                    "1/3 cup marsala wine",
+                    "1/2 cup heavy cream",
+                    "2 cups mascarpone cheese",
+                    "1 pound ladyfingers",
+                    "Unsweetened cocoa powder, for dusting"
+                ],
+                "cooking_method": "In a bowl, combine the espresso, amaretto, and 1/4 cup sugar. Set aside. In another bowl, whisk the egg yolks and 1/3 cup sugar until light and frothy. Add the marsala wine and whisk to combine. In a mixing bowl, beat the heavy cream until soft peaks form. In another mixing bowl, beat the mascarpone cheese until smooth. Fold the whipped cream into the mascarpone cheese. Dip each ladyfinger in the espresso mixture for 1-2 seconds and place in the bottom of a 9x13 inch baking dish. Spread half of the mascarpone mixture on top of the ladyfingers. Repeat with another layer of dipped ladyfingers and the remaining mascarpone mixture. Cover with plastic wrap and refrigerate for at least 2 hours or overnight. When ready to serve, dust the top with cocoa powder.",
+                "ratings": 4.8
+            },
+            {
+                "id": "Buddy_Valastro_recipe-2",
+                "name": "Buddy's Sausage and Peppers",
+                "ingredients": [
+                    "4-6 Italian sausage links",
+                    "1 large onion, sliced",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1/4 cup olive oil",
+                    "1/4 cup chicken broth",
+                    "Salt and pepper, to taste",
+                    "Crusty bread, for serving"
+                ],
+                "cooking_method": "This recipe for sausage and peppers is a classic dish that is easy to make and packed with flavor. To start, preheat your oven to 375°F. Next, heat a large skillet over medium-high heat and add the sausage links. Cook the sausage until they are browned on all sides, then remove them from the skillet and place them in a large baking dish. In the same skillet, add onion and peppers and cook until softened. Pour chicken broth over the mixture and scrape any brown bits from the bottom of the pan. Pour the onion and pepper mixture over the sausage links in the baking dish. Finally, serve hot with crusty bread for a satisfying and delicious meal.",
+                "ratings": 4.5
+            },
+            {
+                "id": "Buddy_Valastro_recipe-3",
+                "name": "Creamy Fettuccine Alfredo",
+                "ingredients": [
+                    "1 pound fettuccine",
+                    "1/2 cup unsalted butter",
+                    "2 cloves garlic, minced",
+                    "2 cups heavy cream",
+                    "1/4 teaspoon ground black pepper",
+                    "1 1/2 cups freshly grated Parmesan cheese",
+                    "1/4 cup chopped fresh parsley"
+                ],
+                "cooking_method": "Bring a large pot of salted water to a boil. Add the fettuccine and cook according to the package instructions until al dente. Reserve 1 cup of the pasta cooking water, then drain the pasta. Meanwhile, in a large skillet over medium heat, melt the butter. Add the garlic and cook, stirring, for 1 minute. Add the cream and black pepper and bring to a simmer. Simmer for 5 minutes, stirring occasionally, until the sauce thickens slightly. Add the Parmesan cheese to the sauce and stir until melted and smooth.  Add the cooked fettuccine to the sauce and toss to coat. Serve hot, garnished with chopped parsley.",
+                "ratings": 4.8
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pia Alonzo Wurtzbach",
+        "recipes": [
+            {
+                "id": "Pia_Alonzo_Wurtzbach_recipe_1",
+                "name": "Pork Adobo",
+                "ingredients": [
+                    "1 kilogram pork belly, cut into bite-sized pieces",
+                    "1/2 cup soy sauce",
+                    "1/2 cup vinegar",
+                    "1 head garlic, peeled and minced",
+                    "1 teaspoon whole black peppercorns"
+                ],
+                "cooking_method": "In a large pot, combine the pork, soy sauce, vinegar, garlic, and peppercorns. Bring the mixture to a boil, then lower the heat and let it simmer until the pork is tender, about 1 hour. Serve hot with rice.",
+                "ratings": 4.2
+            },
+            {
+                "id": "Pia_Alonzo_Wurtzbach_recipe_2",
+                "name": "Chicken Adobo",
+                "ingredients": [
+                    "1 kilogram chicken, cut into serving pieces",
+                    "1/2 cup soy sauce",
+                    "1/2 cup vinegar",
+                    "1 head garlic, peeled and minced",
+                    "1 teaspoon whole black peppercorns"
+                ],
+                "cooking_method": " In a large pot, combine the chicken, soy sauce, vinegar, garlic, and peppercorns.  Bring the mixture to a boil, then lower the heat and let it simmer until the chicken is tender, about 45 minutes. Serve hot with rice.",
+                "ratings": 4.5
+            },
+            {
+                "id": "Pia_Alonzo_Wurtzbach_recipe_3",
+                "name": "Pancit Bihon",
+                "ingredients": [
+                    "1 package pancit bihon noodles",
+                    "1/2 pound boneless, skinless chicken breast, cut into small pieces",
+                    "1/2 pound shrimp, peeled and deveined",
+                    "1 small onion, diced",
+                    "2 cloves garlic, minced",
+                    "2 tablespoons vegetable oil",
+                    "1 cup chicken broth",
+                    "1 cup chopped cabbage",
+                    "1 cup chopped carrots",
+                    "1 cup chopped green beans",
+                    "1/2 cup sliced green onions"
+                ],
+                "cooking_method": "In a large pot, soak the pancit bihon noodles in warm water for 10 minutes. Drain and set aside. In a wok or large pan, heat the oil over high heat. Add the chicken and shrimp and stir-fry for 2-3 minutes. Add the onion and garlic and stir-fry for another minute. Add the chicken broth, cabbage, carrots, and green beans and bring to a boil. Add the noodles and stir-fry for 3-4 minutes, or until the noodles are soft.",
+                "ratings": 4.8
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Claude Tayag",
+        "recipes": [
+            {
+                "id": "Claude_Tayag_recipe_1",
+                "name": "Adobong Manok",
+                "ingredients": [
+                    "1 kg chicken, cut into serving pieces",
+                    "1/2 cup vinegar",
+                    "1/2 cup soy sauce",
+                    "1 cup water",
+                    "1 head garlic, minced",
+                    "1 onion, chopped",
+                    "3 bay leaves",
+                    "1 tsp black pepper"
+                ],
+                "cooking_method": "In a pan, sauté garlic and onion. Add chicken and cook for 5 minutes. Pour in vinegar, soy sauce, and water. Add bay leaves and black pepper. Simmer for 30 minutes or until chicken is tender. Serve hot with rice.",
+                "ratings": 4.5
+            },
+            {
+                "id": "Claude_Tayag_recipe_2",
+                "name": "Kare-Kare",
+                "ingredients": [
+                    "1 kg oxtail",
+                    "1/2 kg beef tripe",
+                    "3 cups water",
+                    "1 eggplant, sliced",
+                    "1 banana heart, sliced",
+                    "1 cup peanut butter",
+                    "1 onion, chopped",
+                    "1 head garlic, minced",
+                    "3 tbsp annatto seeds"
+                ],
+                "cooking_method": "Boil oxtail and beef tripe in water until tender. In a pan, sauté garlic and onion. Add annatto seeds and cook for 5 minutes. Add peanut butter and mix well. Pour in broth from boiled meat. Add eggplant and banana heart. Serve hot with rice.",
+                "ratings": 4.2
+            },
+            {
+                "id": "Claude_Tayag_recipe_3",
+                "name": "Sinigang na Baboy",
+                "ingredients": [
+                    "1/2 kg pork belly, sliced",
+                    "1 onion, sliced",
+                    "3 tomatoes, sliced",
+                    "2 cups tamarind juice",
+                    "1 radish, sliced",
+                    "1 eggplant, sliced",
+                    "1 okra, sliced",
+                    "3 cups water",
+                    "1 tbsp fish sauce"
+                ],
+                "cooking_method": "Boil pork in water for 30 minutes. Add onions and tomatoes. Pour in tamarind juice and add fish sauce. Add vegetables and simmer for 10 minutes. Serve hot with rice.",
+                "ratings": 4.3
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Margarita Forés",
+        "recipes": [
+            {
+                "id": "Margarita_Forés_recipe_1",
+                "name": "Chicken Inasal",
+                "ingredients": [
+                    "1 whole chicken, cut into serving pieces",
+                    "1/2 cup coconut vinegar",
+                    "1/2 cup calamansi juice",
+                    "1/2 cup lemon grass, chopped",
+                    "1/2 cup ginger, chopped"
+                ],
+                "cooking_method": "Mix vinegar, calamansi juice, lemon grass, ginger and annatto oil. Marinate the chicken in the mixture overnight in the refrigerator. Preheat oven to 350°F. Bake the chicken until fully cooked, turning it every 15 minutes. Serve hot.",
+                "ratings": 4.7
+            },
+            {
+                "id": "Margarita_Forés_recipe_2",
+                "name": "Beef Kare-Kare",
+                "ingredients": [
+                    "1 1/2 lbs beef tripe",
+                    "1 1/2 lbs beef sirloin, cut into cubes",
+                    "1 large eggplant, sliced",
+                    "1/2 lb string beans, cut into 2-inch lengths",
+                    "1 cup peanut butter"
+                ],
+                "cooking_method": " Boil tripe in salted water until tender. Discard water and cut into 2-inch strips. In a separate pot, sauté garlic and onion until golden brown. Add the beef cubes and stir until brown. Add water and bring to a boil. Add the tripe and continue boiling for 1 1/2 hours. Add the eggplant and string beans, and cook until tender. Add the peanut butter and simmer for 5 minutes. Serve with bagoong (shrimp paste) and rice.",
+                "ratings": 4.9
+            },
+            {
+                "id": "Margarita_Forés_recipe_3",
+                "name": "Adobo Rice",
+                "ingredients": [
+                    "2 cups uncooked rice",
+                    "2 cups chicken broth",
+                    "1/2 cup soy sauce",
+                    "1/2 cup vinegar",
+                    "1/4 cup brown sugar"
+                ],
+                "cooking_method": "Rinse the rice and drain well. In a pot, combine the rice, chicken broth, soy sauce, vinegar, and brown sugar. Stir well and bring to a boil. Reduce heat to low and cover the pot. Simmer until the rice is cooked and the liquid is absorbed. Serve hot with your favorite adobo recipe.",
+                "ratings": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Jordy Navarra",
+        "recipes": [
+            {
+                "id": "jordy_navarra_recipe_1",
+                "name": "Sinigang na kambing",
+                "ingredients": [
+                    "goat meat",
+                    "tamarind",
+                    "onion",
+                    "tomato",
+                    "string beans"
+                ],
+                "cooking_method": "Boil goat meat in water with onion, garlic, and ginger until tender. Add tamarind to make the soup sour.  Add tomato and string beans. Serve hot.",
+                "ratings": 4.5
+            },
+            {
+                "id": "jordy_navarra_recipe_2",
+                "name": "Binakol na manok",
+                "ingredients": [
+                    "chicken",
+                    "coconut water",
+                    "ginger",
+                    "lemongrass",
+                    "chili pepper"
+                ],
+                "cooking_method": "Saute ginger and lemongrass in oil. Add chicken and cook until brown Add coconut water and simmer until chicken is cooked. Add chili pepper for some heat. Serve hot.",
+                "ratings": 4.8
+            },
+            {
+                "id": "jordy_navarra_recipe_3",
+                "name": "Crispy lechon belly",
+                "ingredients": [
+                    "pork belly",
+                    "lemon grass",
+                    "salt",
+                    "pepper",
+                    "garlic"
+                ],
+                "cooking_method": "Season pork belly with salt, pepper, and garlic. Roll the pork belly and tie with lemon grass. Roast the pork belly in the oven until crispy. Let it rest for a few minutes before slicing. Serve hot.",
+                "ratings": 4.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Miko Aspiras",
+        "recipes": [
+            {
+                "id": "Miko_Aspiras_recipes_1",
+                "name": "Chocnut Torte",
+                "ingredients": [
+                    "1 cup flour",
+                    "1/4 cup cocoa powder",
+                    "1 tsp baking powder",
+                    "1/2 tsp baking soda",
+                    "1/2 cup vegetable oil",
+                    "3/4 cup sugar",
+                    "2 eggs",
+                    "1/2 cup milk",
+                    "1/2 cup Chocnut, crushed"
+                ],
+                "cooking_method": "Preheat the oven to 350°F. Grease and flour an 8-inch round cake pan. In a bowl, sift together flour, cocoa powder, baking powder, and baking soda. Set aside. In a mixing bowl, beat vegetable oil and sugar together until light and fluffy. Add eggs one at a time, mixing well after each addition. Add the dry ingredients to the mixing bowl in 3 parts, alternating with the milk, starting and ending with the dry ingredients. Mix until just combined. Fold in the crushed Chocnut. Pour batter into the prepared pan and bake for 25-30 minutes, or until a toothpick inserted into the center of the cake comes out clean. Serve and enjoy!",
+                "ratings": 4.5
+            },
+            {
+                "id": "Miko_Aspiras_recipes_2",
+                "name": "Strawberry Shortcake",
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "2 tsp baking powder",
+                    "1/2 tsp salt",
+                    "1/2 cup unsalted butter, softened",
+                    "1/2 cup sugar",
+                    "2 eggs",
+                    "1/2 cup milk",
+                    "2 cups fresh strawberries, sliced",
+                    "1 cup heavy cream",
+                    "1/4 cup powdered sugar",
+                    "1 tsp vanilla extract"
+                ],
+                "cooking_method": "Preheat the oven to 350°F. Grease and flour two 8-inch round cake pans. In a bowl, whisk together flour, baking powder, and salt. Set aside. In a mixing bowl, cream butter and sugar together until light and fluffy. Add eggs one at a time, mixing well after each addition. Add the dry ingredients to the mixing bowl in 3 parts, alternating with the milk, starting and ending with the dry ingredients. Mix until just combined. In a mixing bowl, beat heavy cream, powdered sugar, and vanilla extract together until stiff peaks form. Place one cake layer on a plate or cake stand.Serve and enjoy!",
+                "ratings": 4.6
+            },
+            {
+                "id": "Miko_Aspiras_recipes_3",
+                "name": "Matcha White Chocolate Mousse",
+                "ingredients": [
+                    "1 cup heavy cream",
+                    "1/4 cup sugar",
+                    "1/4 cup matcha powder",
+                    "3 egg yolks",
+                    "4 ounces white chocolate, chopped"
+                ],
+                "cooking_method": "In a medium saucepan, whisk together the heavy cream, sugar, matcha powder, and egg yolks. Cook the mixture over low heat, stirring constantly, until it thickens enough to coat the back of a spoon, about 8-10 minutes. Remove from heat and add the chopped white chocolate, stirring until completely melted and smooth. Chill in the refrigerator for at least 2 hours or until set. Serve chilled.",
+                "ratings": 4.1
+            }
+        ]
+    }
+]
