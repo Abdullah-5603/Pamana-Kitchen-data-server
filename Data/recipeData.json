@@ -230,8 +230,8 @@
         "id": 5,
         "name": "Jordy Navarra",
         "picture": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/2015/11/24/d3c641fc2ac8095954e84f6818ca7a52.jpg?itok=luvGetQx",
-        "years_of_experience": 15,
-        "number_of_recipes": 32,
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 32,
         "likes": 869,
         "bio": "Jordy Navarra is the chef-owner of Toyo Eatery, a restaurant that showcases modern Filipino cuisine. He trained at the Culinary Institute of America in New York and has worked in some of the world's best restaurants, including El Bulli and Mugaritz in Spain. He was named Asia's Best Female Chef in 2018 and has been featured in international publications such as The New York Times, Food & Wine, and CNN.",
         "recipes": [
@@ -281,8 +281,8 @@
         "id": 6,
         "name": "Miko Aspiras",
         "picture": "https://nolisoli.ph/wp-content/uploads/2019/04/Miko-Aspiras.jpg",
-        "years_of_experience": 15,
-        "number_of_recipes": 65,
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 65,
         "likes": 1078,
         "bio": "Miko Aspiras is a multi-awarded pastry chef who has worked in various high-end restaurants and hotels in the Philippines and around the world. He is known for his innovative and creative dessert creations that combine different flavors and textures. Miko has won several awards for his work, including being named Asia's Best Pastry Chef in the 2019 Asia's 50 Best Restaurants list.",
         "recipes": [

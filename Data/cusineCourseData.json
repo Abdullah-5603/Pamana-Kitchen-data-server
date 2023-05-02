@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Filipino Cuisine",
+        "price": 399,
+        "description": "Discover the rich and diverse flavors of Filipino cuisine, from adobo to sinigang, in this introductory course.",
+        "instructor": "Chef Buddy Valastro",
+        "duration": "3 weeks"
+     },
+     {
+        "id": 2,
+        "name": "Regional Filipino Dishes",
+        "price": 499,
+        "description": "Explore the unique regional dishes of the Philippines, including Bicol Express and Cebu Lechon.",
+        "instructor": "Chef Pia Alonzo Wurtzbach",
+        "duration": "4 weeks"
+     },
+     {
+        "id": 3,
+        "name": "Filipino Street Food Favorites",
+        "price": 299,
+        "description": "Learn how to make popular Filipino street foods, such as fish balls and kwek kwek, in this fun and interactive course.",
+        "instructor": "Chef Claude Tayag",
+        "duration": "2 weeks"
+     },
+     {
+        "id": 4,
+        "name": "Vegetarian Filipino Cuisine",
+        "price": 399,
+        "description": "Discover delicious and healthy vegetarian Filipino dishes, such as tofu sisig and ginataang langka.",
+        "instructor": "Chef Margarita Forés",
+        "duration": "3 weeks"
+     },
+     {
+        "id": 5,
+        "name": "Filipino Desserts and Pastries",
+        "price": 299,
+        "description": "Learn how to make traditional Filipino sweets, like bibingka and turon, as well as modern desserts with a Filipino twist.",
+        "instructor": "Chef Jordy Navarra",
+        "duration": "2 weeks"
+     },
+     {
+        "id": 6,
+        "name": "Advanced Filipino Cooking Techniques",
+        "price": 599,
+        "description": "Take your Filipino cooking skills to the next level with advanced techniques, such as sous vide and molecular gastronomy.",
+        "instructor": "Chef Miko Aspiras",
+        "duration": "6 weeks"
+     } 
+]
