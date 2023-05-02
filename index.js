@@ -4,11 +4,16 @@ const port = process.env.PORT || 4000;
 const cors = require('cors');
 
 const recipe = require('./Data/recipeData.json')
+const traditionalFood = require('./Data/traditionalFoodData.json')
 
 app.use(cors());
 
 app.get('/', (req, res) =>{
     res.send(recipe)
+})
+
+app.get('/traditionalFood', (req, res) =>{
+    res.send(traditionalFood);
 })
 
 app.get('/recipe/:id', (req, res) =>{

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Chicken Adobo",
+        "image": "https://media.istockphoto.com/id/104271464/photo/chicken-adobo.jpg?s=612x612&w=0&k=20&c=alppKOdg0YnFrNQys6bJ5fsCldGab9DRj_6VxaZ7_Eo=",
+        "description": "Adobo is a popular Filipino dish made with meat (chicken, pork, or a combination of both) marinated in vinegar, soy sauce, and garlic, and simmered until tender. It is usually served with rice and often considered the unofficial national dish of the Philippines."
+      },
+      {
+        "id": "2",
+        "name": "Sinigang",
+        "image": "https://media.istockphoto.com/id/1246401808/photo/sinigang-na-baboy-dish-or-filipino-pork-meat-soup-in-black-bowl-on-dark-slate-backdrop.jpg?s=612x612&w=0&k=20&c=cPKxZbS7nL2PZkpOzjtvg8syfMeAkUWM3gX3rM13pCw=",
+        "description": "Sinigang is a sour soup typically made with pork, beef, or fish, and tamarind or other sour fruits such as guava or calamansi. Vegetables such as kangkong (water spinach), okra, and eggplant are also commonly added. It is often served with rice and is a popular comfort food in the Philippines."
+      },  
+      {
+        "id": "3",
+        "name": "Lechon",
+        "image": "https://media.istockphoto.com/id/1283310930/photo/roasted-pork-meat-or-lechon-crispy-oily-skin-of-bbq-pork-traditional-philippines-cuisine.jpg?s=612x612&w=0&k=20&c=hilCso0PfwgWc1usTGqv9SequtoUvWtXJAf2p2A92xE=",
+        "description": "Lechon is a roasted whole pig that is traditionally served during special occasions such as weddings, fiestas, and holidays. The skin is crispy and flavorful, while the meat is juicy and tender. It is often served with a sauce made from liver, vinegar, and sugar, and is a beloved Filipino dish that is also popular in other Southeast Asian countries."
+      }          
+]
