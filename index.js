@@ -9,7 +9,7 @@ const cuisineCourse = require('./Data/cuisineCourseData.json')
 
 app.use(cors());
 
-app.get('/', (req, res) =>{
+app.get('/recipe', (req, res) =>{
     res.send(recipe)
 })
 
