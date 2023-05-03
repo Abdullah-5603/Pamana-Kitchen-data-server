@@ -5,7 +5,7 @@ const cors = require('cors');
 
 const recipe = require('./Data/recipeData.json')
 const traditionalFood = require('./Data/traditionalFoodData.json')
-const cuisineCourse = require('./Data/cusineCourseData.json')
+const cuisineCourse = require('./Data/cuisineCourseData.json')
 
 app.use(cors());
 
